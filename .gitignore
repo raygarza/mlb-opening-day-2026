@@ -1,0 +1,6 @@
+data_projects/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+data/*.csv
+data/*.parquet
