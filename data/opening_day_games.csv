@@ -1,0 +1,16 @@
+game_id,date,away_team,home_team,away_starter,home_starter,venue,city,lat,lon,park_factor
+1,2026-03-25,New York Yankees,San Francisco Giants,Max Fried,Logan Webb,Oracle Park,San Francisco,37.7786,-122.3893,94
+2,2026-03-26,Pittsburgh Pirates,New York Mets,Paul Skenes,Freddy Peralta,Citi Field,New York,40.7571,-73.8458,95
+3,2026-03-26,Chicago White Sox,Milwaukee Brewers,Shane Smith,Jacob Misiorowski,American Family Field,Milwaukee,43.028,-87.9712,100
+4,2026-03-26,Washington Nationals,Chicago Cubs,Cade Cavalli,Matthew Boyd,Wrigley Field,Chicago,41.9484,-87.6553,94
+5,2026-03-26,Minnesota Twins,Baltimore Orioles,Joe Ryan,Trevor Rogers,Camden Yards,Baltimore,39.2838,-76.6218,107
+6,2026-03-26,Boston Red Sox,Cincinnati Reds,Garrett Crochet,Andrew Abbott,Great American Ball Park,Cincinnati,39.0979,-84.5082,112
+7,2026-03-26,Los Angeles Angels,Houston Astros,Jose Soriano,Hunter Brown,Minute Maid Park,Houston,29.7572,-95.3555,100
+8,2026-03-26,Detroit Tigers,San Diego Padres,Tarik Skubal,TBD,Petco Park,San Diego,32.7073,-117.1566,93
+9,2026-03-26,Texas Rangers,Philadelphia Phillies,Nathan Eovaldi,Cristopher Sanchez,Citizens Bank Park,Philadelphia,39.9057,-75.1665,105
+10,2026-03-26,Tampa Bay Rays,St. Louis Cardinals,Drew Rasmussen,Matthew Liberatore,Busch Stadium,St. Louis,38.6226,-90.1928,97
+11,2026-03-26,Arizona Diamondbacks,Los Angeles Dodgers,Zac Gallen,Yoshinobu Yamamoto,Dodger Stadium,Los Angeles,34.0739,-118.24,97
+12,2026-03-26,Cleveland Guardians,Seattle Mariners,Tanner Bibee,Logan Gilbert,T-Mobile Park,Seattle,47.5914,-122.3325,92
+13,2026-03-27,Oakland Athletics,Toronto Blue Jays,Luis Severino,Kevin Gausman,Rogers Centre,Toronto,43.6414,-79.3894,102
+14,2026-03-27,Colorado Rockies,Miami Marlins,Kyle Freeland,Sandy Alcantara,loanDepot Park,Miami,25.7781,-80.2197,103
+15,2026-03-27,Kansas City Royals,Atlanta Braves,Cole Ragans,Chris Sale,Truist Park,Atlanta,33.8908,-84.4678,99
